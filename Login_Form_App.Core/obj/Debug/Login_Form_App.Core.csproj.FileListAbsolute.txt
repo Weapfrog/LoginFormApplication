@@ -1,0 +1,6 @@
+C:\Users\muzga\source\repos\Login_Form_App.Core\bin\Debug\Login_Form_App.Core.dll
+C:\Users\muzga\source\repos\Login_Form_App.Core\bin\Debug\Login_Form_App.Core.pdb
+C:\Users\muzga\source\repos\Login_Form_App.Core\obj\Debug\Login_Form_App.Core.csproj.AssemblyReference.cache
+C:\Users\muzga\source\repos\Login_Form_App.Core\obj\Debug\Login_Form_App.Core.csproj.CoreCompileInputs.cache
+C:\Users\muzga\source\repos\Login_Form_App.Core\obj\Debug\Login_Form_App.Core.dll
+C:\Users\muzga\source\repos\Login_Form_App.Core\obj\Debug\Login_Form_App.Core.pdb
