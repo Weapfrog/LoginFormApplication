@@ -12,7 +12,7 @@ namespace Login_Form_App.Core
         private readonly SqlConnection connection;
         public DatabaseHelper()
         {
-            this.connection = new SqlConnection(@"Data Source=ANOOBREKHAN;Initial Catalog=login_database;Integrated Security=True");
+            this.connection = new SqlConnection(@"///");
         }
         public (int RowCount, bool Success, string Message) GetLogin(Dictionary<string, dynamic> parameters)
         {
